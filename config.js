@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['628112958665', '6288215569001','628998512588', '6283175998566', '6285693602003', '6283153189868'] // Letakan nomor kamu disini
+global.owner = ['6289601145546', '6282387704390'] // Letakan nomor kamu disini
 global.mods = [''] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -35,17 +35,17 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Haruno'
-global.author = 'Fadli'
+global.packname = 'kuharap kamu bahagia'
+global.author = 'Dora'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© Haruno' //change the watermark (beberapa harus manual)
+global.watermark = '© Dora' //change the watermark (beberapa harus manual)
 global.image = 'https://telegra.ph/file/63560c3d19d6bcce228f5.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/39bbded9693c9338069fd.jpg'
 global.sumberurl = 'https://youtu.be/0YF8vecQWYs'
-global.deskripsiurl = 'Harunobot adalah salah satu bot whatapp.'
+global.deskripsiurl = 'Dora adalah salah satu bot whatapp.'
 
 global.multiplier = 59 // Semakin tinggi, semakin sulit naik level
 
