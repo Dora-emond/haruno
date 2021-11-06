@@ -17,6 +17,7 @@ global.APIs = { // API Prefix
   lolhum: 'https://api.lolhuman.xyz',
   fxc7: 'https://fxc7-api.herokuapp.com',
   aqul: 'https://api.justaqul.xyz'
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
 
 }
 global.APIKeys = { // APIKey nya disini
@@ -32,6 +33,7 @@ global.APIKeys = { // APIKey nya disini
   'https://fxc7-api.herokuapp.com': 'uN8rsK4g',
   'https://api.justaqul.xyz': '5kbUqdG00OXelFYx',
   'http://zekais-api.herokuapp.com': 'grqgD6pU'
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
 }
 
 // Sticker WM
